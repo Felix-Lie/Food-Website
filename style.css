@@ -489,7 +489,7 @@ html {
 
   .section-4 {
     height: 40rem;
-    -ms-flex-direction: column;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: center;
   }
